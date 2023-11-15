@@ -5,6 +5,7 @@ This repository guides the process of building a Kubernetes cluster on AWS from 
 
 Noteworthy within this setup is the automatic recreation of failed pods and seamless load transfer to new pods using a service static IP, ensuring continuous availability and optimal performance.
 
+![Workflow Diagram](https://github.com/RaviChandra001/Django-todo-app-/assets/134200599/680ae8c7-0cdf-4779-baac-c56efeee39b0)
 
 
 ## Installation
